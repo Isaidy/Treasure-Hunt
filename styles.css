@@ -1,0 +1,69 @@
+h1, h2, h3, h4 {
+    text-align:center;
+}
+
+.top {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.one {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+body {
+    background-color: lightyellow;
+}
+
+body {
+  display:flex;
+  flex-direction:column;
+}
+
+.two, .three {
+  display:none;
+  margin-top:20px;
+  width:300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.four {
+    display:none;
+     margin-top:20px;
+    width:300px;
+     margin-left: auto;
+   margin-right: auto;
+}
+
+.surprise {
+    width:200px;
+    height:200px;
+    display:none;
+    
+}
+
+.hold {
+    background-color:yellow;
+    color:yellow;
+    display:none;
+    width:200px;
+    height:200px;
+    margin-top:20px;
+}
+
+.last, .done {
+    display:none;
+}
+
+.done {
+    font-size: 100px;
+}
+
+.direction1, .direction2 {
+    display:none;
+}
